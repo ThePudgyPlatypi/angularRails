@@ -1,0 +1,9 @@
+{
+	"vendor": {
+		"name": "bower-rails generated vendor assests", 
+		"dependencies": {
+			"angular": "https://github.com/angular/bower-angular.git",
+			"bootstrap": "https://github.com/twbs/bootstrap.git"
+		}
+	}
+}
