@@ -38,6 +38,8 @@ gem 'jbuilder', '~> 2.5'
 # My gems
 gem "bower-rails"
 gem "foreman"
+# this is needed so angular can access the templateURL normally
+gem "angular-rails-templates"
 
 group :production, :staging do
   gem "rails_12factor"
